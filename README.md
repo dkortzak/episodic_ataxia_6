@@ -4,7 +4,7 @@
 Data: Transfection rates/protein expression/glykolysation as Figure2_data.xlsx
  
 ### [Fig3](../master/Figure_3_data.xlsx)
-Heka files and Python script to perform Noise analysis and generate plots shown in Figure 3. 
+Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) as Figure3_data.xlsx
 
 ### [Fig4](../master/Fig4)
 Heka files and Python script to calculate reversal potentials, fit GHK-equation and generate plots shown in Figure 4. 
