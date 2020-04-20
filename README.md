@@ -14,3 +14,4 @@ Data: Values for EAAT1 anion uptake currents (with internal Na+, shown in Figure
 
 ### [SupplFig2 dataset WT](../master/Suppl_Fig_2_WT_EAAT1.xlsx)
 ### [SupplFig2 dataset T318A](../master/Suppl_Fig_2_T318A_EAAT1.xlsx)
+Data: Values for Graph in Supplemental Figure 2
