@@ -6,8 +6,8 @@ Data: Transfection rates/protein expression/glykolysation as Figure2_data.xlsx
 ### [Fig3](../master/Figure_3_data.xlsx)
 Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) as Figure3_data.xlsx
 
-### [Fig4](../master/Fig4)
-Heka files and Python script to calculate reversal potentials, fit GHK-equation and generate plots shown in Figure 4. 
+### [Fig4](../master/Figure_4_data-xlsx)
+Data: Values for EAAT1 anion uptake currents (with internal K+, shown in Figure 4) and values for current ratios +/- Glu (shown in Supplemental Fig. 1) as Figure4_data.xlsx
 
 ### [Fig5](../master/Fig5)
 Heka files and SigmaPlot Notebook for paired-pulse recovery experiments to generate plots shown in Figure 5A-E as well as python script to perform bootstrapp analysis shown in Figure 5F.   
