@@ -1,4 +1,4 @@
-# EAAT1 mutations in episodic ataxia 6 modify transporter functions
+# Functional consequences of SLC1A3 mutations associated with episodic ataxia 6
 
 ### [Fig2](../master/Figure_2_data.xlsx)
 Data: Transfection rates/protein expression/glykolysation as Figure2_data.xlsx
