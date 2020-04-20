@@ -1,6 +1,6 @@
 # EAAT1 mutations in episodic ataxia 6 modify transporter functions
 
-### [Fig2](../master/Fig2)
+### [Fig2](../master/Figure 2_data.xlsx)
 Data: Transfection rates/protein expression/glykolysation as Figure2_data.xlsx
  
 ### [Fig3](../master/Fig3)
