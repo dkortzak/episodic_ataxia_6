@@ -1,9 +1,7 @@
-# EAAT2-mutation-affecting-anion-currents
-
-Datasets and anaylis scripts accompanying the paper *An amino-terminal point mutation increases EAAT2 anion currents without affecting glutamate transport rates* by Mertens et al.
+# EAAT1 mutations in episodic ataxia 6 modify transporter functions
 
 ### [Fig2](../master/Fig2)
-Heka files and SigmaPlot Notebooks to generate the plots shown in Figure 1.
+Data: Transfection rates/protein expression/glykolysation as Figure2_data.xlsx
  
 ### [Fig3](../master/Fig3)
 Heka files and Python script to perform Noise analysis and generate plots shown in Figure 3. 
