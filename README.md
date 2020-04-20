@@ -11,3 +11,6 @@ Data: Values for EAAT1 anion uptake currents (with internal K+, shown in Figure 
 
 ### [Fig5](../master/Figure_5_data.xlsx)
 Data: Values for EAAT1 anion uptake currents (with internal Na+, shown in Figure 5) and values for current ratios +/- Glu (shown in Supplemental Fig. 1) as Figure_5_data.xlsx
+
+### [SupplFig2.1](../master/Suppl_Fig_2_T318A_EAAT1.xlsx)
+### [SupplFig2.2](../master/Suppl_Fig_2_WT_EAAT1.xlsx)
