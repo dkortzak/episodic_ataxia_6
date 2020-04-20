@@ -3,7 +3,7 @@
 ### [Fig2](../master/Figure_2_data.xlsx)
 Data: Transfection rates/protein expression/glykolysation as Figure2_data.xlsx
  
-### [Fig3](../master/Fig3)
+### [Fig3](../master/Fig_3_data.xlsx)
 Heka files and Python script to perform Noise analysis and generate plots shown in Figure 3. 
 
 ### [Fig4](../master/Fig4)
