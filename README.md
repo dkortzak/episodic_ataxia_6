@@ -1,6 +1,6 @@
 # Functional consequences of <i>SLC1A3</i> mutations associated with episodic ataxia 6
 
-### [Fig1](..master/SDS-PAGEs_Sharma.pdf)
+### [Fig1](../master/SDS-PAGEs_Sharma.pdf)
 
 ### [Fig2](../master/Figure_2_data.xlsx)
 Data: Transfection rates/protein expression/glykolysation as Figure2_data.xlsx
