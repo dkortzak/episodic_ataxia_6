@@ -17,7 +17,9 @@ Data: Values for anion currents in untransfected cells with int KNO<sub>3</sub>
 Data: Values for EAAT1 anion uptake currents (with internal Na+, shown in Figure 5) and values for current ratios +/- Glu (shown in Supplemental Fig. 1) as <i>Figure_5_data.xlsx</i>
 ### [Fig. 5 dataset 2](../master/untransf_cells_Fig_5_data.xlsx)
 Data: Values for anion currents in untransfected cells with int NaNO<sub>3</sub>
+
 ------------------------------------------------------------------------------------------------------------------------
+
 ####[Fig. 3, 4, 5 dataset](../master/Fig_3_4_5_expression_vs_current_data.xlsx)
 Data: Values for Graphs 3d, 4d, and 5d as Fig_3_4_5_expression_vs_current_data.xlsx
 
