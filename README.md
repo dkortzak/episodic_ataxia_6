@@ -29,4 +29,4 @@ Data: Values for Graphs 3d, 4d, and 5d as <i>Fig_3_4_5_expression_vs_current_dat
 
 ### [SupplFig. 2 dataset WT](../master/Suppl_Fig_2_WT_EAAT1.xlsx)
 ### [SupplFig. 2 dataset T318A](../master/Suppl_Fig_2_T318A_EAAT1.xlsx)
-Data: Values for Graph in Supplemental Figure 2
+Data: Values for Graph in Supplemental Figure 2 as <i>Suppl_Fig_2_WT_EAAT1.xlsx</i> and <i>Suppl_Fig2_T318A_EAAT1.xlsx</i>
