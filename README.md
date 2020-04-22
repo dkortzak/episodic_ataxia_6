@@ -11,17 +11,17 @@ Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) 
 ### [Fig. 4 dataset 1](../master/Figure_4_data-xlsx)
 Data: Values for EAAT1 anion uptake currents (with internal K+, shown in Figure 4) and values for current ratios +/- Glu (shown in Supplemental Fig. 1) as <i>Figure_4_data.xlsx</i>
 ### [Fig. 4 dataset 2](../master/untransf_cells_Fig_4_data.xlsx)
-Data: Values for anion currents in untransfected cells with int KNO<sub>3</sub>
+Data: Values for anion currents in untransfected cells with int KNO<sub>3</sub> as <i>untransf_cells_Fig_4_data.xlsx</i>
 
 ### [Fig. 5 dataset 1](../master/Figure_5_data.xlsx)
 Data: Values for EAAT1 anion uptake currents (with internal Na+, shown in Figure 5) and values for current ratios +/- Glu (shown in Supplemental Fig. 1) as <i>Figure_5_data.xlsx</i>
 ### [Fig. 5 dataset 2](../master/untransf_cells_Fig_5_data.xlsx)
-Data: Values for anion currents in untransfected cells with int NaNO<sub>3</sub>
+Data: Values for anion currents in untransfected cells with int NaNO<sub>3</sub> as <i>untransf_cells_Fig_5_data.xlsx</i>
 
 ------------------------------------------------------------------------------------------------------------------------
 
 ####[Fig. 3, 4, 5 dataset](../master/Fig_3_4_5_expression_vs_current_data.xlsx)
-Data: Values for Graphs 3d, 4d, and 5d as Fig_3_4_5_expression_vs_current_data.xlsx
+Data: Values for Graphs 3d, 4d, and 5d as <i>Fig_3_4_5_expression_vs_current_data.xlsx</i>
 
 ------------------------------------------------------------------------------------------------------------------------
 
