@@ -22,7 +22,7 @@ Data: Values for anion currents in untransfected cells with int NaNO<sub>3</sub>
 
 ------------------------------------------------------------------------------------------------------------------------
 
-####[Fig. 3, 4, 5 dataset](../master/Fig_3_4_5_expression_vs_current_data.xlsx)
+### [Fig. 3, 4, 5 dataset](../master/Fig_3_4_5_expression_vs_current_data.xlsx)
 Data: Values for Graphs 3d, 4d, and 5d as <i>Fig_3_4_5_expression_vs_current_data.xlsx</i>
 
 ------------------------------------------------------------------------------------------------------------------------
