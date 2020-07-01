@@ -17,22 +17,21 @@ Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) 
 
 
 ### [Fig. 4](../master/Figure_4_data-xlsx)
-Data: Values for EAAT1 anion currents (with internal KNO<sub>3</sub>, shown in fig.4) and values for current ratios +/- Glu (shown in supplemental fig.4) (incl. cell capacitances)  
+Data: Values for EAAT1 anion currents (with internal KNO<sub>3</sub>, fig.4) and values for current ratios +/- Glu (supplemental fig.4) (incl. cell capacitances)  
 <b>as <i>Figure_4_data.xlsx</i></b>  
 
 
-
 ### [Fig. 5](../master/Figure_5_data.xlsx)
-Data: Values for EAAT1 anion currents (with internal NaNO<sub>3</sub>, shown in fig.5) and values for current ratios +/- Glu (shown in supplemental fig.4)  
+Data: Values for EAAT1 anion currents (with internal NaNO<sub>3</sub>, fig.5) and values for current ratios +/- Glu (supplemental fig.4)  
 <b>as <i>Figure_5_data.xlsx</i></b>
 
 ### [Fig. 6](../master/Figure_6_data.xlsx)
-Data: Values for <i>h</i>EAAT1 anion currents from cotransfections with M128R <i>h</i>EAAT1, T318A <i>h</i>EAAT1, and E281Q <i>h</i>ClC4 (int: KNO<sub>3</sub>)  in fig.6 
+Data: Values for <i>h</i>EAAT1 anion currents from cotransfections with M128R <i>h</i>EAAT1, T318A <i>h</i>EAAT1, and E281Q <i>h</i>ClC4 (int: KNO<sub>3</sub>) in fig.6 
 <b>as <i>Figure_6_data.xlsx</i></b>
 
 
 ### [Fig. 3, 4, 5 datasets](../master/Fig_3_4_5_expression_vs_current_data.xlsx)
-Data: Values for Graphs in Figs.3d, 4d, and 5d  
+Data: Values for Graphs in figs.3d, 4d, and 5d  
 <b>as <i>Fig_3_4_5_expression_vs_current_data.xlsx</i></b>
 
 ------------------------------------------------------------------------------------------------------------------------
