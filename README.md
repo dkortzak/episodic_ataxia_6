@@ -51,8 +51,11 @@ shown in fig. 4 and supplemental fig.3
 
 -----------------------------------------------------------------------------------------------------------------------
 ### [Suppl._Fig._2 dataset](../master/Suppl_Fig_2_data.xlsx)
-Data: Values for <i>capacitance-glutamate uptake current</i> plots in supplemental fig.2
+Data: Values for <i>capacitance-glutamate uptake current</i> plots in supplemental fig.2  
+<b>as <i>Suppl_Fig_2_data.xlsx</i></b>
 ### [Suppl._Fig. 5 dataset WT](../master/Suppl_Fig_5_data.xlsx)
-Data: Values for Graph (normalized anion currents of WT and T318A <i>h</i>EAAT1) in supplemental fig.5 as <b><i>Suppl_Fig_5_data.xlsx</i></b>
-### [Suppl._Fig._6 dataset](../master/Suppl_Fig_2_data.xlsx)
+Data: Values for Graph (normalized anion currents of WT and T318A <i>h</i>EAAT1) in supplemental fig.5 as <b><i>Suppl_Fig_5_data.xlsx</i></b>  
+<b>as <i>Suppl_Fig_5_data.xlsx</i></b>
+### [Suppl._Fig._6 dataset](../master/Suppl_Fig_2_data.xlsx)  
+<b>as <i>Suppl_Fig_6_data.xlsx</i></b>
 Data: Values for <i>capacitance-anion current</i> plots in supplemental fig.6
