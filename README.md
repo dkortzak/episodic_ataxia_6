@@ -18,7 +18,12 @@ Data: Values for EAAT1 anion uptake currents (with internal K+, shown in Figure 
 ### [Fig. 5 dataset 1](../master/Figure_5_data.xlsx)
 Data: Values for EAAT1 anion uptake currents (with internal Na+, shown in Figure 5) and values for current ratios +/- Glu (shown in Supplemental Fig. 1) as <b><i>Figure_5_data.xlsx</i></b>
 
-
+### [Controls (various figures)](../master/Controls_various Figs.xlsx)
+Data: Values for anion currents in untransfected cells (ext: NaNO<sub>2</sub> / int: NaNO<sub>3</sub> and int: KNO<sub>3</sub>)
+Data: Values for anion currents in cells transfected with untagged WT <i>h</i>EAAT1 and YFP alone 
+(ext: NaNO<sub>3</sub> / int: KNO<sub>3</sub>)
+Data: Values for anion currents in cells transfected with hEAAT1-YFP after incubation with UCPH-101 
+(ext: NaNO<sub>2</sub> / int: KNO<sub>3</sub>)
 
 ------------------------------------------------------------------------------------------------------------------------
 
