@@ -4,7 +4,7 @@
 
 ### [Fig. 2 dataset 1](../master/SDS-PAGEs_Sharma.pdf)
 pdf: Typhoon scans of full length SDS-PAGES for expression analysis of EAAT1 variants  
-<b> as<i>SDS-PAGEs-Sharma.pdf</i></b> 
+<b> as <i>SDS-PAGEs-Sharma.pdf</i></b> 
 
 ### [Fig. 2 dataset 2](../master/Figure_2_data.xlsx)
 Data: Transfection rates/protein expression/glykolysation  
