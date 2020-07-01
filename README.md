@@ -23,8 +23,8 @@ Data: Values for anion currents in untransfected cells (ext: NaNO<sub>2</sub> / 
   
 Data: Values for anion currents in cells transfected with untagged WT <i>h</i>EAAT1 and YFP alone (ext: NaNO<sub>3</sub> / int: KNO<sub>3</sub>)  
   
-Data: Values for anion currents in cells transfected with hEAAT1-YFP after incubation with UCPH-101   
-(ext: NaNO<sub>2</sub> / int: KNO<sub>3</sub>) as <b><i>Controls_various_Figs.xlsx</i></b>  
+Data: Values for anion currents in cells transfected with hEAAT1-YFP after incubation with UCPH-101 
+(ext: NaNO<sub>2</sub> / int: KNO<sub>3</sub>)  as <b><i>Controls_various_Figs.xlsx</i></b>  
 
 ------------------------------------------------------------------------------------------------------------------------
 
