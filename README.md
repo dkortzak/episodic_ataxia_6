@@ -55,3 +55,5 @@ Data: Values for <i>capacitance-glutamate uptake current</i> plots in supplement
 ### [Suppl._Fig. 5 dataset WT](../master/Suppl_Fig_5_WT_EAAT1.xlsx)
 ### [Suppl._Fig. 5 dataset T318A](../master/Suppl_Fig_5_T318A_EAAT1.xlsx)
 Data: Values for Graph in Supplemental Figure 2 as <b><i>Suppl_Fig_2_WT_EAAT1.xlsx</i> and <i>Suppl_Fig2_T318A_EAAT1.xlsx</i></b>
+### [Suppl._Fig._6 dataset](../master/Suppl_Fig_2_data.xlsx)
+Data: Values for <i>capacitance-anion current</i> plots in supplemental figure 6
