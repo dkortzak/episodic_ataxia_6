@@ -12,7 +12,7 @@ Data: Transfection rates/protein expression/glykolysation in fig.2
 <b>as <i>Figure2_data.xlsx</i></b>
  
 ### [Fig. 3](../master/Figure_3_data.xlsx)
-Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) (incl. cell capacitances) in fig.3 
+Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) (incl. cell capacitances) in fig.3   
 <b>as <i>Figure_3_data.xlsx</i></b>  
 
 
