@@ -20,6 +20,11 @@ Data: Values for EAAT1 anion currents (with internal KNO<sub>3</sub>, shown in F
 ### [Fig. 5](../master/Figure_5_data.xlsx)
 Data: Values for EAAT1 anion currents (with internal NaNO<sub>3</sub>, shown in Figure 5) and values for current ratios +/- Glu (shown in Supplemental Fig. 4) as <b><i>Figure_5_data.xlsx</i></b>
 
+### [Fig. 6](../master/Figure_6_data.xlsx)
+Data: Values for <i>h</i>EAAT1 anion currents from cotransfections with M128R <i>h</i> EAAT1, T318A <i>h</i> EAAT1, and E281Q <i>h</i> ClC4 (int: KNO<sub>3</sub>)  
+as <b><i>Figure_6_data.xlsx</i></b>
+
+
 ### [Fig. 3, 4, 5 datasets](../master/Fig_3_4_5_expression_vs_current_data.xlsx)
 Data: Values for Graphs 3d, 4d, and 5d as <b><i>Fig_3_4_5_expression_vs_current_data.xlsx</i></b>
 
