@@ -4,21 +4,19 @@
 
 ### [Fig. 2 dataset 1](../master/SDS-PAGEs_Sharma.pdf)
 pdf: Typhoon scans of full length SDS-PAGES for expression analysis of EAAT1 variants  
-<b><b><i>SDS-PAGEs-Sharma.pdf</i></b> 
+<b> as<i>SDS-PAGEs-Sharma.pdf</i></b> 
 
 ### [Fig. 2 dataset 2](../master/Figure_2_data.xlsx)
 Data: Transfection rates/protein expression/glykolysation  
-<b><b><i>Figure2_data.xlsx</i></b>
+<b>as <i>Figure2_data.xlsx</i></b>
  
 ### [Fig. 3](../master/Figure_3_data.xlsx)
-Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu)  
-(incl. cell capacitances)  
+Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) (incl. cell capacitances)  
 <b>as <i>Figure_3_data.xlsx</i></b>  
 
 
 ### [Fig. 4](../master/Figure_4_data-xlsx)
-Data: Values for EAAT1 anion currents (with internal KNO<sub>3</sub>, shown in Figure 4) and values for current ratios +/- Glu (shown in Supplemental Fig. 4)  
-(incl. cell capacitances)  
+Data: Values for EAAT1 anion currents (with internal KNO<sub>3</sub>, shown in Figure 4) and values for current ratios +/- Glu (shown in Supplemental Fig. 4) (incl. cell capacitances)  
 <b>as <i>Figure_4_data.xlsx</i></b>  
 
 
