@@ -11,12 +11,12 @@ Data: Transfection rates/protein expression/glykolysation as <b><i>Figure2_data.
 ### [Fig. 3](../master/Figure_3_data.xlsx)
 Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) as <b><i>Figure_3_data.xlsx</i></b>
 
-### [Fig. 4 dataset 1](../master/Figure_4_data-xlsx)
-Data: Values for EAAT1 anion uptake currents (with internal K+, shown in Figure 4) and values for current ratios +/- Glu (shown in Supplemental Fig. 1) as <b><i>Figure_4_data.xlsx</i></b>
+### [Fig. 4](../master/Figure_4_data-xlsx)
+Data: Values for EAAT1 anion currents (with internal K<sup>+</sup>, shown in Figure 4) and values for current ratios +/- Glu (shown in Supplemental Fig. 4) as <b><i>Figure_4_data.xlsx</i></b>
 
 
 ### [Fig. 5 dataset 1](../master/Figure_5_data.xlsx)
-Data: Values for EAAT1 anion uptake currents (with internal Na+, shown in Figure 5) and values for current ratios +/- Glu (shown in Supplemental Fig. 1) as <b><i>Figure_5_data.xlsx</i></b>
+Data: Values for EAAT1 anion currents (with internal Na<sup>+</sup>, shown in Figure 5) and values for current ratios +/- Glu (shown in Supplemental Fig. 4) as <b><i>Figure_5_data.xlsx</i></b>
 
 ### [Controls (various figures)](../master/Controls_various_Figs.xlsx)
 Data: Values for anion currents in untransfected cells (ext: NaNO<sub>2</sub> / int: NaNO<sub>3</sub> and int: KNO<sub>3</sub>)  
