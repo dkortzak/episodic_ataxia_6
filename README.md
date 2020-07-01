@@ -60,3 +60,6 @@ Data: Values for Graph (normalized anion currents of WT and T318A <i>h</i>EAAT1)
 Data: Values for <i>capacitance-anion current</i> plots in supplemental fig.6    
 <b>as <i>Suppl_Fig_6_data.xlsx</i></b>
 
+-------------------------------------------------------------------------------------------------------------------------
+### [Human Genome Variation Society Information](../master/HGVS_check.pdf)
+Genetic information about tested <i>h</i>EAAT1 variants and the control <i>h</i>ClC4<sup>E281Q</sup>
