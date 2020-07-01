@@ -26,7 +26,7 @@ Data: Values for EAAT1 anion currents (with internal NaNO<sub>3</sub>, fig.5) an
 <b>as <i>Figure_5_data.xlsx</i></b>
 
 ### [Fig. 6](../master/Figure_6_data.xlsx)
-Data: Values for <i>h</i>EAAT1 anion currents from cotransfections with M128R <i>h</i>EAAT1, T318A <i>h</i>EAAT1, and E281Q <i>h</i>ClC4 (int: KNO<sub>3</sub>) in fig.6 
+Data: Values for <i>h</i>EAAT1 anion currents from cotransfections with M128R <i>h</i>EAAT1, T318A <i>h</i>EAAT1, and E281Q <i>h</i>ClC4 (int: KNO<sub>3</sub>) in fig.6  
 <b>as <i>Figure_6_data.xlsx</i></b>
 
 
