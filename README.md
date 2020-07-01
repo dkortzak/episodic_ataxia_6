@@ -15,7 +15,7 @@ Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) 
 Data: Values for EAAT1 anion currents (with internal KNO<sub>3</sub>, shown in Figure 4) and values for current ratios +/- Glu (shown in Supplemental Fig. 4) as <b><i>Figure_4_data.xlsx</i></b>
 
 
-### [Fig. 5 dataset 1](../master/Figure_5_data.xlsx)
+### [Fig. 5](../master/Figure_5_data.xlsx)
 Data: Values for EAAT1 anion currents (with internal NaNO<sub>3</sub>, shown in Figure 5) and values for current ratios +/- Glu (shown in Supplemental Fig. 4) as <b><i>Figure_5_data.xlsx</i></b>
 
 ### [Controls (various figures)](../master/Controls_various_Figs.xlsx)
