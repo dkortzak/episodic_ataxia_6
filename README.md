@@ -62,4 +62,5 @@ Data: Values for <i>capacitance-anion current</i> plots in supplemental fig.6
 
 -------------------------------------------------------------------------------------------------------------------------
 ### [Human Genome Variation Society Information](../master/HGVS_check.pdf)
-Genetic information about tested <i>h</i>EAAT1 variants and the control <i>h</i>ClC4<sup>E281Q</sup>
+Genetic information about tested <i>h</i>EAAT1 variants and the control <i>h</i>ClC4<sup>E281Q</sup>  
+<b>as <i>HGVS_check.pdf</i></b>
