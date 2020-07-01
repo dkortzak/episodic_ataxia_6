@@ -1,7 +1,6 @@
 # Functional consequences of <i>SLC1A3</i> mutations associated with episodic ataxia 6
-
--------------------------------------------------------------------------------------------------------------------------
-Chivukula, A., Suslova, M., Kortzak, D., Kovermann, P., Fahlke, C.
+  
+### Chivukula, A., Suslova, M., Kortzak, D., Kovermann, P., Fahlke, C.
 -------------------------------------------------------------------------------------------------------------------------
   
 ### [Fig. 2 dataset 1](../master/SDS-PAGEs_Sharma.pdf)
