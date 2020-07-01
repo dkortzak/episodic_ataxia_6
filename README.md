@@ -28,9 +28,9 @@ Data: Values for Graphs 3d, 4d, and 5d as <b><i>Fig_3_4_5_expression_vs_current_
 ### [Controls (various figures)](../master/Controls_various_Figs.xlsx)
 Data: Values for anion currents in untransfected cells (ext: NaNO<sub>3</sub> / int: NaNO<sub>3</sub> and int: KNO<sub>3</sub>)  
   
-Data: Values for anion currents in cells transfected with untagged WT <i>h</i>EAAT1 and YFP alone (ext: NaNO<sub>3</sub> / int: KNO<sub>3</sub>)  
+Data: Values for anion currents in cells transfected with untagged WT <i>h</i>EAAT1 (ext: NaNO<sub>3</sub> / int: KNO<sub>3</sub>)  
   
-Data: Values for anion currents in cells transfected with hEAAT1-YFP after incubation with UCPH-101 
+Data: Values for anion currents in cells transfected with <i>h</i>EAAT1-YFP after incubation with UCPH-101 
 (ext: NaNO<sub>2</sub> / int: KNO<sub>3</sub>)  
   
 as <b><i>Controls_various_Figs.xlsx</i></b>  
