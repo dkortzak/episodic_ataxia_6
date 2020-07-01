@@ -9,10 +9,12 @@ pdf: Typhoon scans of full length SDS-PAGES for expression analysis of EAAT1 var
 Data: Transfection rates/protein expression/glykolysation as <b><i>Figure2_data.xlsx</i></b>
  
 ### [Fig. 3](../master/Figure_3_data.xlsx)
-Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) as <b><i>Figure_3_data.xlsx</i></b>
+Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) as <b><i>Figure_3_data.xlsx</i></b>  
+(incl. cell capacitances)
 
 ### [Fig. 4](../master/Figure_4_data-xlsx)
-Data: Values for EAAT1 anion currents (with internal KNO<sub>3</sub>, shown in Figure 4) and values for current ratios +/- Glu (shown in Supplemental Fig. 4) as <b><i>Figure_4_data.xlsx</i></b>
+Data: Values for EAAT1 anion currents (with internal KNO<sub>3</sub>, shown in Figure 4) and values for current ratios +/- Glu (shown in Supplemental Fig. 4) as <b><i>Figure_4_data.xlsx</i></b>  
+(incl. cell capacitances)
 
 
 ### [Fig. 5](../master/Figure_5_data.xlsx)
